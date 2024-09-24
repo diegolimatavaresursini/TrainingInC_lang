@@ -1,0 +1,8 @@
+//initializing...
+
+#include <stdio.h>
+
+int main () {
+   printf("Starting a mother language!");
+   return 0;
+}
